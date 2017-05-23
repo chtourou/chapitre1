@@ -7,7 +7,7 @@
     tools:context="com.youmait.myfirstappinandroid.MainActivity">
 
     <TextView
-        android:id="@+id/txtpisplay"
+        android:id="@+id/txtdisplay"
         android:textSize="50dp"
         android:gravity="center"
         android:layout_width="match_parent"
@@ -20,7 +20,7 @@
         android:id="@+id/busumit"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/txtpisplay"
+        android:layout_below="@+id/txtdisplay"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="137dp"
         android:onClick="buclick"
